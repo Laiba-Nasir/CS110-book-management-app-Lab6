@@ -4,7 +4,7 @@
 
 
 ## TechStack: 
-- for the front end we used
+- for the frontend we used react
 - ⁠ for the backend we use node.js, express.js
 - ⁠ for the database we use the Mongo DB Atlas
 
